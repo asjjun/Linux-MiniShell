@@ -1,11 +1,18 @@
-# Mini-Shell
-Ⅰ. 구현한 명령어 목록
+# Linux Minishell
+ > Linux 환경에서 동작하는 나만의 shell 구현
+ 
+ <p align="center">
+ <img src="https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=#A8B9CC"/>
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+ </p>
+ 
+## Ⅰ. 구현한 명령어 목록
 
 ![image](https://user-images.githubusercontent.com/29851772/200361153-daaf106b-94ac-4898-b37f-781928937f06.png)
 
-Ⅱ. 구현한 명령어 코드 설명
+## Ⅱ. 구현한 명령어 코드 설명
 
-- main() 함수
+### ◆ main() 함수 
 
 ![image](https://user-images.githubusercontent.com/29851772/200545242-632b0e07-b0aa-4be0-853e-8b180edd04cc.png)\
 main함수에서 여러 변수들을 선언 및 초기화를 해준다.\
@@ -29,7 +36,7 @@ buf에 입력되어있는 명령어를 history 목록에 넣어준다.\
 입력받은 명령어가 저 목록중에 없다면 에러처리를 해줬다. 
 exit 명령어는 따로 함수를 만들지 않고 break로 shell이 종료되게 처리했다.
 
-- 구현한 명령어 함수
+### ◆ 구현한 명령어 함수
 
 ![image](https://user-images.githubusercontent.com/29851772/200544805-19bf3b13-9f32-479f-8ee1-6a676dcff0cc.png)\
 my_cat() 함수는 파일명을 매개변수로 open 함수를 이용해 읽기 전용 모드로 파일을 연다.
