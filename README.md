@@ -1,4 +1,4 @@
-# Linux Minishell
+# Linux miniShell
  > Linux 환경에서 동작하는 나만의 shell 구현
  
  <p align="center">
