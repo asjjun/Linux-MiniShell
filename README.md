@@ -70,23 +70,19 @@ my_rm() 함수는 입력받은 함수 혹은 디렉토리를 remove() 함수를 
 
 my_ln() 함수는 첫 번째 입력받은 파일의 hardlink 파일을 두 번째 입력받은 파일명으로 생성한다.
 
-
-#################my_stat() 함수 이미지#################
+![img2](https://user-images.githubusercontent.com/29851772/200551233-6465ded0-61c0-45e4-96d6-350191a57adf.png)\
 stat 함수 설명
 
-![image](https://user-images.githubusercontent.com/29851772/200365210-2cba3673-7fd6-42af-9918-3fc1f6846e82.png)
-
+![image](https://user-images.githubusercontent.com/29851772/200551349-2567018f-5186-4a6e-8de6-cf888df33251.png)\
 my_chmod() 함수는 첫 번째 매개변수로 입력받은 모드를, 두 번째 매개변수로 입력받은 파일 명을 사용한다.\
 먼저 파일이 있는지 확인해보고 없다면 파일이 존재하지 않는다는 에러처리를 한다.\
 그리고 입력받은 숫자를 8진수로 바꿔주고 chmod() 함수를 사용해 파일의 permission을 변경 해준다.
 
-![image](https://user-images.githubusercontent.com/29851772/200365408-548a2954-3087-47d6-b862-beb1daf6f53c.png)
-
+![image](https://user-images.githubusercontent.com/29851772/200551588-3a28823f-d0d8-4adb-9366-2675f64a022d.png)\
 hitory 기능은 history 구조체 배열에 입력받은 명령어를 추가하는 input_history() 함수와\
 history 목록을 출력하는 my_history() 함수 두 가지로 구현된다.
 
-![image](https://user-images.githubusercontent.com/29851772/200365418-24499d0b-a6d2-4af1-ad51-b078894620db.png)
-
+![image](https://user-images.githubusercontent.com/29851772/200551518-d8604bd9-dc09-4cbd-b52a-9a40db44bf80.png)\
 alias 기능도 history와 마찬가지로 input_alias() 함수와 my_alias() 함수 두 가지가 있다.\
 input_alias() 함수는 main함수에서 parsing되어 넘어온 alias부분과 명령어 부분을 각각 aliasList 구조체 배열에 저장한다.\
 my_alias() 함수는 alias 목록을 출력해준다.
