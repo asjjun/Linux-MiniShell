@@ -71,7 +71,7 @@ my_rm() 함수는 입력받은 함수 혹은 디렉토리를 remove() 함수를 
 my_ln() 함수는 첫 번째 입력받은 파일의 hardlink 파일을 두 번째 입력받은 파일명으로 생성한다.
 
 ![img2](https://user-images.githubusercontent.com/29851772/200551233-6465ded0-61c0-45e4-96d6-350191a57adf.png)\
-stat 함수 설명
+my_stat() 함수는 lstat() 함수를 사용해 파일의 상태 및 정보등을 얻어 출력해주는 함수이다.
 
 ![image](https://user-images.githubusercontent.com/29851772/200551349-2567018f-5186-4a6e-8de6-cf888df33251.png)\
 my_chmod() 함수는 첫 번째 매개변수로 입력받은 모드를, 두 번째 매개변수로 입력받은 파일 명을 사용한다.\
