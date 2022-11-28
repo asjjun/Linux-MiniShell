@@ -1,5 +1,5 @@
 # Linux miniShell
- > Linux 환경에서 동작하는 나만의 shell 구현
+ > Linux 환경에서 동작하는 간단한 shell 구현
  
  <p align="center">
  <img src="https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=#A8B9CC"/>
