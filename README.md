@@ -5,7 +5,14 @@
  <img src="https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=#A8B9CC"/>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
  </p>
- 
+     
+     실행 방법
+     Linux 터미널에서 myshell.c 파일 컴파일 후 실행
+     
+     ex)
+     gcc myshell.c
+     ./a.out
+     
 ## Ⅰ. 구현한 명령어 목록
 
 ![image](https://user-images.githubusercontent.com/29851772/200361153-daaf106b-94ac-4898-b37f-781928937f06.png)
