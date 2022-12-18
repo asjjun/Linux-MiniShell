@@ -5,9 +5,10 @@
  <img src="https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=#A8B9CC"/>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
  </p>
-     
+ 
+   ## 환경 설정
      실행 방법
-     Linux 터미널에서 myshell.c 파일 컴파일 후 실행
+     - Linux 터미널에서 myshell.c 파일 컴파일 후 실행
      
      ex)
      gcc myshell.c
