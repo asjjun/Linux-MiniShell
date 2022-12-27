@@ -1,8 +1,9 @@
 # Linux miniShell
- > Linux 환경에서 동작하는 간단한 shell 구현
+ > Ubuntu Linux에서 동작하는 간단한 shell 구현
  
  <p align="center">
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
  </p>
  
