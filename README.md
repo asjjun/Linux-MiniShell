@@ -1,5 +1,5 @@
 # Linux miniShell
- > Ubuntu Linux에서 동작하는 간단한 shell 구현
+ > Ubuntu(Linux)에서 동작하는 간단한 shell 구현
  
  <p align="center">
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
