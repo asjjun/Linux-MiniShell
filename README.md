@@ -2,11 +2,13 @@
  > Ubuntu(Linux)에서 동작하는 간단한 shell 구현
  
  <p align="center">
+ <img width="700px" height="400px" src="https://user-images.githubusercontent.com/29851772/221006090-b7662fab-b931-42e7-a4df-ccb182e92fdd.PNG"/>
+ <br>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
  </p>
- 
+
    ## 환경 설정
      실행 방법
      - 터미널에서 myshell.c 파일 컴파일 후 실행
